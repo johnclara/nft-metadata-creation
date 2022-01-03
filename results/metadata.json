@@ -1,0 +1,160 @@
+[
+    {
+        "asset": "4167B2C0-78ED-48DA-88AC-D4E82518C787-47190-00000B41A2F5A3B2.GIF",
+        "levels": [
+            {
+                "max_value": 10,
+                "name": "Galactic Warrior Level",
+                "value": 6
+            },
+            {
+                "max_value": 10,
+                "name": "Galaxy Strike",
+                "value": 7
+            },
+            {
+                "max_value": 10,
+                "name": "Spell Power",
+                "value": 10
+            },
+            {
+                "max_value": 10,
+                "name": "Spell Cast",
+                "value": 3
+            }
+        ],
+        "name": "Galactic Pixel #101",
+        "properties": [
+            {
+                "prop_name": "Type",
+                "prop_value": "Galactic Warrior"
+            },
+            {
+                "prop_name": "Background",
+                "prop_value": "Rain"
+            },
+            {
+                "prop_name": "Hands",
+                "prop_value": "None"
+            },
+            {
+                "prop_name": "Head",
+                "prop_value": "None"
+            },
+            {
+                "prop_name": "Planet",
+                "prop_value": "Soul~Trap"
+            },
+            {
+                "prop_name": "Shield",
+                "prop_value": "None"
+            }
+        ],
+        "stats": [
+            {
+                "max_value": 10,
+                "name": "Battle Ready",
+                "value": 10
+            },
+            {
+                "max_value": 10,
+                "name": "Power",
+                "value": 4
+            },
+            {
+                "max_value": 10,
+                "name": "Speed",
+                "value": 4
+            },
+            {
+                "max_value": 10,
+                "name": "Spell Capability",
+                "value": 7
+            },
+            {
+                "max_value": 10,
+                "name": "Spell Power",
+                "value": 10
+            }
+        ]
+    },
+    {
+        "asset": "2C2A6A84-946F-4047-A76C-A087AC96EC5F-47354-00000B4BB5423545.GIF",
+        "levels": [
+            {
+                "max_value": 10,
+                "name": "Galactic Warrior Level",
+                "value": 5
+            },
+            {
+                "max_value": 10,
+                "name": "Galaxy Strike",
+                "value": 4
+            },
+            {
+                "max_value": 10,
+                "name": "Spell Power",
+                "value": 3
+            },
+            {
+                "max_value": 10,
+                "name": "Spell Cast",
+                "value": 6
+            }
+        ],
+        "name": "Galactic Pixel #102",
+        "properties": [
+            {
+                "prop_name": "Type",
+                "prop_value": "Galactic Warrior"
+            },
+            {
+                "prop_name": "Background",
+                "prop_value": "Orb"
+            },
+            {
+                "prop_name": "Hands",
+                "prop_value": "None"
+            },
+            {
+                "prop_name": "Head",
+                "prop_value": "Crown"
+            },
+            {
+                "prop_name": "Planet",
+                "prop_value": "Aqua Inferno"
+            },
+            {
+                "prop_name": "Shield",
+                "prop_value": "None"
+            }
+        ],
+        "stats": [
+            {
+                "max_value": 10,
+                "name": "Battle Ready",
+                "value": 4
+            },
+            {
+                "max_value": 10,
+                "name": "Power",
+                "value": 10
+            },
+            {
+                "max_value": 10,
+                "name": "Speed",
+                "value": 4
+            },
+            {
+                "max_value": 10,
+                "name": "Spell Capability",
+                "value": 5
+            },
+            {
+                "max_value": 10,
+                "name": "Spell Power",
+                "value": 3
+            }
+        ]
+    }
+]
